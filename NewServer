@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0,Hotel.Transylvania.3.2018.720p
+#EXTGRP:unsorted
+http://dl.upload8.net/Film/New-Server/2018/Hotel.Transylvania.3.2018.720p.RARBG.Film9.mkv
+#EXTINF:0,Hotel.Transylvania.3.2018.480p
+#EXTGRP:unsorted
+http://dl.upload8.net/Film/New-Server/2018/Hotel.Transylvania.3.2018.480p.RMT.Film9.mkv
+#EXTINF:0,The MEG 480p
+#EXTGRP:unsorted
+http://dl.upload8.net/Film/New-Server/2018/The.Meg.2018.480p.HC.HDRip.Pahe.Film9.mkv
+#EXTINF:0,The MEG 720p
+#EXTGRP:unsorted
+http://dl.upload8.net/Film/New-Server/2018/The.Meg.2018.720p.HC.HDRip.Hon3y.Film9.mkv
 #EXTINF:0,MOVIES New Server: Rampage.2018.1080p.6CH.MkvCage.Film9.mkv
 #EXTGRP:unsorted
 http://dl.upload8.net/Film/New-Server/Rampage%20BluRay/Rampage.2018.1080p.6CH.MkvCage.Film9.mkv
